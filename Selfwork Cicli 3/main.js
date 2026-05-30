@@ -1,3 +1,5 @@
+//Prima Versione
+
 // let scelta = 0;
 
 // console.log("DISTRIBUTORE AUTOMATICO");
@@ -26,6 +28,7 @@
 // }
 
 
+//Versione Extra
 
 let ordineCompletato = false;
 
